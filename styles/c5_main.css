@@ -103,6 +103,8 @@ main li {
 
 /* the styles for the footer */
 footer p {
+	padding: 0em;
+	margin: 0px;
 	text-align: center;
 	padding: 1em 0;
 	color: #FFFFFF;
